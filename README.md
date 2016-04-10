@@ -1,42 +1,16 @@
 # Irish Constituencies Neo4j Database
-###### Student name, G00123456
+###### Patrick Conmy, G00282845
 
-## Introduction
-Give a summary here of what your project is about.
+## 
+Introduction
 
-## Database
-Explain how you created your database, and how information is represented in it.
+Project is about the Irish Election of 2016!
+It showcases all the current people who got seats male/female. 
+What party their in and how many votes they got.They are split into constituencies and show where they got voted.
+Unfortunately the queries i had in this do not work but i wanted to show:
+1.How many females got voted.
+2.Who was the majority Party voted.
 
-## Queries
-Summarise your three queries here.
-Then explain them one by one in the following sections.
-
-#### Query one title
-This query retreives the Bacon number of an actor...
-```cypher
-MATCH
-	(Bacon)
-RETURN
-	Bacon;
-```
-
-#### Query two title
-This query retreives the Bacon number of an actor...
-```cypher
-MATCH
-	(Bacon)
-RETURN
-	Bacon;
-```
-
-#### Query three title
-This query retreives the Bacon number of an actor...
-```cypher
-MATCH
-	(Bacon)
-RETURN
-	Bacon;
-```
-
-## References
-1. [Neo4J website](http://neo4j.com/), the website of the Neo4j database.
+I used the Github Tutorials online to code this work so I used no other sources.
+I also got the results of the election  through the Independant and ill link it here:
+http://www.independent.ie/irish-news/election-2016/
